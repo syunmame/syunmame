@@ -4,13 +4,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=syunmame&theme=onedark)](https://github-profile-trophy.vercel.app/?username=syunmame&theme=tokyonight)
 
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syunmame&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=syunmame&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
 ### My Skills 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,ros,docker,unity)](https://skillicons.dev)
 
 ### code hosting platform
 [![Develop Environment](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syunmame&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
 
 
 <!--
