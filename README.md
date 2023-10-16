@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/nameless_sn"><img src="https://api.daily.dev/devcards/efdd751fb58246b6aeaa1b94410e8433.png?r=zfl" width="400" alt="syunmame's Dev Card"/></a>
+<a href="https://app.daily.dev/nameless_sn"><img src="https://api.daily.dev/devcards/d7ba6f4974a24695a33f26675ce6d655.png?r=gmf" width="400" alt="syunmame's Dev Card"/></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syunmame&theme=2077)
 
