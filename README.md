@@ -10,6 +10,7 @@
 ### code hosting platform
 [![Develop Environment](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syunmame&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 
 <!--
