@@ -14,6 +14,8 @@
 ### code hosting platform
 [![Develop Environment](https://skillicons.dev/icons?i=github,gitlab)](https://skillicons.dev)
 
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20syuname)](https://github.com/syunmame/syunmame)
+
 
 
 
