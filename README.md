@@ -16,7 +16,7 @@
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20syuname)](https://github.com/syunmame/syunmame)
 
-
+[![github-chart](https://github-chart.vercel.app/api?user=syunmame)](https://github.com/syunmame/syunmame/github-chart)
 
 
 <!--
