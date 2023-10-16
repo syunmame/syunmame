@@ -4,7 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=syunmame&theme=onedark)](https://github-profile-trophy.vercel.app/?username=syunmame&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,ros,docker,unity,github,gitlab,)](https://skillicons.dev)
+
 
 
 <!--
