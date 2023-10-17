@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
  
 <a href="https://app.daily.dev/hayatomaeda"><img src="https://api.daily.dev/devcards/d7ba6f4974a24695a33f26675ce6d655.png?r=dcr" width="400" alt="hayato maeda's Dev Card"/></a>
 
